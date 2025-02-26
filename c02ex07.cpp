@@ -10,7 +10,7 @@ int main(void)
     cout << "informe valor para a variavel <A>: "; cin >> a;
     cin.ignore(80, '\n');
 
-    cout << "Informe valor para a variavel <B>: "; cin >>b;
+    cout << "Informe valor para a variavel <B>: "; cin >> b;
     cin.ignore(80, '\n');
 
     r = a + b;
